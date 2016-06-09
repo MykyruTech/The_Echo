@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">The Echo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ContentDescription"> </string>
+    <string name="Name">Michelle Perry</string>
+    <string name="Email">mperry@kunaschools.org</string>
+    <string name="Gallery">Gallery</string>
+
+    <string name="Home">Home</string>
+    <string name="Gossip">He said/She said</string>
+    <string name="Events">Events</string>
+    <string name="Birthdays">Birthday</string>
+    <string name="Spotlight">Spotlight</string>
+    <string name="Art_Entertainment">Arts and Entertainment</string>
+    <string name="Locker_Room">Locker Room</string>
+    <string name="KHS">KHS Exclusive</string>
+    <string name="Current">Current Events</string>
+    <string name="Contact">Contact</string>
+
+    <string name="Send">Send</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Report">Report a Problem</string>
+    <string name="About">About</string>
+    <string name="ToS">Terms of Service</string>
+    <string name="Login">Staff Login</string>
+    <string name="Twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="title_activity_gossip">Gossip</string>
+    <string name="title_activity_arts_and_entertainment">arts_and_entertainment</string>
+    <string name="title_activity_birthday">birthday</string>
+    <string name="title_activity_calendar">calendar</string>
+    <string name="title_activity_current_events">current_events</string>
+    <string name="title_activity_locker__room">Locker_Room</string>
+    <string name="title_activity_spotlight">Spotlight</string>
+    <string name="title_activity_arts_and__entertainment">Arts_and_Entertainment</string>
+    <string name="title_activity_nav__drawer">Nav_Drawer</string>
+    <string name="title_activity_home_nav_drawer">HomeNavDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

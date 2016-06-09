@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.weebly.httpmykyrutech.the_echo.current_events"
+    android:id="@id/content_current">
+
+    <!-- TODO: Update blank fragment layout -->
+    <include layout="@layout/app_bar_home_nav_drawer"
+        />
+</FrameLayout>

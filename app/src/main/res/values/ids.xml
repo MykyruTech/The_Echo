@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id" />
+    <item name="home" type="id" />
+    <item name="arts_and_entertainment" type="id"/>
+    <item name="gossip" type="id" />
+    <item name="calendar" type="id" />
+    <item name="birthday" type="id"/>
+    <item name="spotlight" type="id" />
+    <item name="Home" type="id" />
+    <item name="locker_room" type="id" />
+    <item name="KHS" type="id" />
+    <item name="content_current" type="id" />
+    <item name="content_login" type="id" />
+    <item name="send" type="id"/>
+    <item name="activity_home_nav_drawer" type="id"/>
+
+</resources>
+

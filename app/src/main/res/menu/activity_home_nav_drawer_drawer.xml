@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/Locker_Room"
+            android:icon="@drawable/ic_locker_room"
+            android:title="@string/Locker_Room" />
+
+        <item
+            android:id="@+id/calendar"
+            android:icon="@drawable/ic_calendar"
+            android:title="@string/Events" />
+        <item
+            android:id="@+id/gossip"
+            android:icon="@drawable/ic_gossip"
+            android:title="@string/Gossip" />
+        <item
+            android:id="@+id/birthday"
+            android:icon="@drawable/ic_birthdays"
+            android:title="@string/Birthdays" />
+        <item
+            android:id="@+id/arts_and_entertainment"
+            android:icon="@drawable/ic_arts_and_entertainment"
+            android:title="@string/Art_Entertainment" />
+        <item
+            android:id="@+id/current_events"
+            android:icon="@drawable/ic_current"
+            android:title="@string/Current" />
+        <item
+            android:id="@+id/spotlight"
+            android:icon="@drawable/ic_spotlight"
+            android:title="@string/Spotlight" />
+        <item
+            android:id="@+id/KHS"
+            android:title="@string/KHS"
+            />
+    </group>
+
+
+</menu>

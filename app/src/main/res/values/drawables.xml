@@ -1,0 +1,12 @@
+<resources>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+
+    <item name="Gossip" type="drawable">@drawable/ic_gossip</item>
+    <item name="Events" type="drawable">@drawable/ic_calendar</item>
+    <item name="Birthday" type="drawable">@drawable/ic_birthdays</item>
+    <item name="Spotlight" type="drawable">@drawable/ic_spotlight</item>
+    <item name="A_and_E" type="drawable">@drawable/ic_arts_and_entertainment</item>
+    <item name="Locker_Room" type="drawable">@drawable/ic_locker_room</item>
+    <item name="KHS_Exclusive" type="drawable"> </item>
+    <item name="Current" type="drawable">@drawable/ic_current</item>
+</resources>
